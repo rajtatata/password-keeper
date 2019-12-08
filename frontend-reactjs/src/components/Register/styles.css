@@ -1,0 +1,9 @@
+#register-form .form-label {
+    flex: auto;
+    max-width: none;
+}
+
+#register-form .col-sm-10 {
+    flex: auto;
+    max-width: none;
+}
