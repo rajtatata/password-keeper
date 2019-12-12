@@ -1,0 +1,19 @@
+#forgotPass-form .form-label {
+    flex: auto;
+    max-width: none;
+}
+
+#forgotPass-form .col-sm-10 {
+    flex: auto;
+    max-width: none;
+}
+
+#resetPass-form .form-label {
+    flex: auto;
+    max-width: none;
+}
+
+#resetPass-form .col-sm-10 {
+    flex: auto;
+    max-width: none;
+}

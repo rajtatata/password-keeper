@@ -1,0 +1,18 @@
+
+// auth
+export const SET_LOGIN_TOKEN = "SET_LOGIN_TOKEN"
+
+// items
+export const SET_ITEMS = "SET_ITEMS"
+export const ADD_ITEM = "ADD_ITEM"
+export const UPDATE_ITEM = "UPDATE_ITEM"
+export const DELETE_ITEM = "DELETE_ITEM"
+
+// modals
+export const SHOW_TOP_MODAL = "SHOW_TOP_MODAL"
+export const HIDE_TOP_MODAL = "HIDE_TOP_MODAL"
+export const SET_TOP_MODAL_CONTENT = "SET_TOP_MODAL_CONTENT"
+
+export const SHOW_CENTERED_MODAL = "SHOW_CENTERED_MODAL"
+export const HIDE_CENTERED_MODAL = "HIDE_CENTERED_MODAL"
+export const SET_CENTERED_MODAL_CONTENT = "SET_CENTERED_MODAL_CONTENT"

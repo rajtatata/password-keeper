@@ -1,0 +1,9 @@
+#login-form .form-label {
+    flex: auto;
+    max-width: none;
+}
+
+#login-form .col-sm-10 {
+    flex: auto;
+    max-width: none;
+}
